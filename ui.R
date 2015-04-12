@@ -1,7 +1,6 @@
 library(shiny)
 library(plot3D)
-library(rgl)
-
+#library(rgl)
 
 # Define UI for random distribution application 
 shinyUI(pageWithSidebar(
